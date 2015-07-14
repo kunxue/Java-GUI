@@ -9,10 +9,6 @@ import Business.SystemAdmin.Person;
 import java.util.ArrayList;
 import java.util.Date;
 
-/**
- *
- * @author kunren
- */
 public class Order 
 {
     private Customer customer;
