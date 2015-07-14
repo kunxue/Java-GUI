@@ -9,10 +9,7 @@ import Business.Market.Solution;
 import Business.SystemAdmin.Person;
 import java.util.ArrayList;
 
-/**
- *
- * @author rk
- */
+
 public class Customer {
     private Person person;
     private ArrayList <Order> ords;
