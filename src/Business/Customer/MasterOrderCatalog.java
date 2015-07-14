@@ -7,10 +7,7 @@ package Business.Customer;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author kunren
- */
+
 public class MasterOrderCatalog 
 {
      private ArrayList <Order> orderList;
