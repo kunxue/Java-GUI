@@ -8,10 +8,7 @@ package Business.Customer;
 import Business.ProductManagement.Product;
 import Business.ProductManagement.Supplier;
 
-/**
- *
- * @author kunren
- */
+
 public class OrderItem 
 {
      private Product product;
