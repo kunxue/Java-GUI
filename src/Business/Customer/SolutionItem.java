@@ -7,10 +7,7 @@ package Business.Customer;
 
 import Business.Market.Solution;
 
-/**
- *
- * @author rk
- */
+
 public class SolutionItem {
     private Solution solution;
     private double price;
